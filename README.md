@@ -8,6 +8,7 @@
     method : <string>,
     data   : <object>
 }
+```
 
 ### method : 'down'
 示例：
