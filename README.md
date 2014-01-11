@@ -3,7 +3,7 @@
 插件id：`pmlnbkoiiamffenppfmjgfggfhgnlcac`
 
 ##消息格式：
-```json
+```
 {
     method : <string>,
     data   : <object>
