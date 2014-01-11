@@ -18,5 +18,6 @@ chrome.runtime.sendMessage('pmlnbkoiiamffenppfmjgfggfhgnlcac', {
     data   : {
         url : 'http://dldir1.qq.com/qqfile/QQforMac/QQ_V3.0.2.dmg',
         eng : 'thunder'
+    }
 });
 ```
